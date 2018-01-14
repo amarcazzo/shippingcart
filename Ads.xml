@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>./img/promociones/cuotasParte1.JPG</ImageUrl>
+    <Impressions>20</Impressions>
+    <Keyword>small</Keyword>
+    <Height>425</Height>
+    <Width>820</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>./img/promociones/cuotasParte2.JPG</ImageUrl>
+    <Impressions>20</Impressions>
+    <Keyword>small</Keyword>
+    <Height>425</Height>
+    <Width>820</Width>
+  </Ad>
+</Advertisements>
